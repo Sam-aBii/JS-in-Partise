@@ -7,7 +7,7 @@ body{
   position: absolute;
   top: 40px;
   right: 40px;
-  padding: 5px;
+  padding: 6px;
   background: #f1f1f1;
 }
 .box a{
@@ -15,7 +15,7 @@ body{
   height: 40px;
   float: left;
   text-indent: -9999px;
-  margin: 5px;
+  margin: 4px;
   cursor: pointer;
 }
 
